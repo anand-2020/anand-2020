@@ -3,6 +3,7 @@
 - I'm a final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar
 - I'm a full stack developer, interned at Publicis Sapient in summer 2022
 - I'm currently exploring Compiler Design for my final year B.Tech project
+- I enjoy Competitive Programming. Checkout my profile at [Codeforces](https://codeforces.com/profile/aaforce202) | [CodeChef](https://www.codechef.com/users/aachef202)
 - Reach me at: [Email](mailto:theanand1310@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anand-amar-9139141a8/)
 ---
 <h4 align="center">Languages, Frameworks and Libraries:</h4>
