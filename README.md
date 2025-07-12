@@ -2,7 +2,7 @@
 
 - I'm a software developer having more than 2 years of experience in Java, Spring Boot, Microservices.
 - I have completed my graduation in Computer Science and Engineering from IIT Bhubaneswar
-- I enjoy Competitive Programming. Checkout my profile at [Codeforces](https://codeforces.com/profile/aaforce202) | [CodeChef](https://www.codechef.com/users/aachef202) | [LeetCode](eetcode.com/u/a_amar)
+- I enjoy Competitive Programming. Checkout my profile at [Codeforces](https://codeforces.com/profile/aaforce202) | [CodeChef](https://www.codechef.com/users/aachef202) | [LeetCode](https://leetcode.com/u/a_amar/)
 - Reach me at: [Email](mailto:theanand1310@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anand-amar/)
 ---
 <h4 align="center">Languages, Frameworks and Libraries I have worked with:</h4>
